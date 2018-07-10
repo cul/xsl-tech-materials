@@ -1,0 +1,21 @@
+<html>
+  <body>
+    <p>
+        <span class="title">Using Structural Metadata to Localize Experience of Digital Content</span>
+        With the increasing technical sophistication of both 
+        information consumers and providers, there is increasing demand for 
+        more meaningful experiences of digital information. We present a 
+        framework that separates digital object experience, or rendering, 
+        from digital object storage and manipulation, so the
+        rendering can be tailored to particular communities of users.
+    </p>
+    <ul>
+        <li class="author">Dushay, Naomi</li>
+        <li class="subject">Digital Libraries</li>
+        <li class="comment">23 pages including 2 appendices, 8 figures</li>
+        <li class="published">2001-12-14</li>
+        <li class="format">e-print</li>
+        <li class="cite">http://arXiv.org/abs/cs/0112017</li>
+    </ul>
+</body>
+</html>

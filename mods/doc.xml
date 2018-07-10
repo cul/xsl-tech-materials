@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">ave_biggert_00001</mods:identifier>
+   <mods:name type="corporate">
+      <mods:namePart>Alaska Treadwell Gold Mining Co.</mods:namePart>
+   </mods:name>
+   <mods:name type="personal" authorityURI="http://id.loc.gov/authorities/names" valueURI="http://id.loc.gov/authorities/names/no2010120768">
+      <mods:namePart>Biggert, Robert</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="text">Collector</mods:roleTerm>
+      </mods:role>
+      <mods:role>
+         <mods:roleTerm type="code" authority="marcrelator">col</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo>
+      <mods:title>Alaska Treadwell Gold Mining Co.. Letter</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:form authority="aat">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+   </mods:physicalDescription>
+   <mods:originInfo>
+      <mods:dateOther>1906</mods:dateOther>
+      <mods:dateOther keyDate="yes" encoding="w3cdtf">1906</mods:dateOther>
+   </mods:originInfo>
+   <mods:language>
+      <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+   </mods:language>
+   <mods:subject>
+      <mods:name type="corporate">
+         <mods:namePart>Alaska Treadwell Gold Mining Co.</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:subject>
+      <mods:geographic>Treadwell, AK</mods:geographic>
+   </mods:subject>
+   <mods:subject authority="lcsh">
+      <mods:topic>Buildings</mods:topic>
+   </mods:subject>
+   <mods:typeOfResource>still image</mods:typeOfResource>
+   <mods:note/>
+   <mods:location>
+      <mods:physicalLocation>Avery Architectural &amp; Fine Arts Library, Columbia University</mods:physicalLocation>
+      <mods:physicalLocation authority="marcorg">NNC-A</mods:physicalLocation>
+      <mods:url access="object in context">https://biggert.cul.columbia.edu/items/view/ave_biggert_00001</mods:url>
+      <mods:holdingSimple>
+         <mods:copyInformation>
+            <mods:subLocation>Avery Classics Collection</mods:subLocation>
+         </mods:copyInformation>
+      </mods:holdingSimple>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:title>Biggert collection of architectural vignettes on commercial stationery</mods:title>
+      </mods:titleInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?clio7887951</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:recordInfo>
+      <mods:recordIdentifier>ldpd_ave_biggert_00001</mods:recordIdentifier>
+      <mods:recordCreationDate>2014-09-15T17:23:15.22-04:00</mods:recordCreationDate>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+<mods:identifier type="fedora_pid">ldpd:395276</mods:identifier></mods:mods>
